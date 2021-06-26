@@ -3,5 +3,5 @@ It is a simple meme sharing app where one can share memes among friends through 
 - The link for the API is :
   > https://meme-api.herokuapp.com/gimme
 - Libraries used in the App :
-  > Volley Library
+  > Volley Library <br/>
   > Glider Library
